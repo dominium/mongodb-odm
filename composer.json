@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/mongodb-odm",
+    "name": "dominium/mongodb-odm",
     "type": "library",
     "description": "Doctrine MongoDB Object Document Mapper",
     "keywords": ["odm", "database", "persistence", "mongodb"],
@@ -22,7 +22,7 @@
         "doctrine/cache": "~1.0",
         "doctrine/inflector": "~1.0",
         "doctrine/instantiator": "~1.0.1",
-        "doctrine/mongodb": "~1.3"
+        "dominium/mongodb": "~1.3"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.8|~5.0",
